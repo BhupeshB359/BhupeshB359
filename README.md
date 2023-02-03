@@ -1,4 +1,4 @@
-# rajan.github.io
+# bhupeshb359.github.io
 Remote Arena
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer from NP</h3>
@@ -7,13 +7,13 @@ Remote Arena
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupesh" alt="bhupesh" /></a> </p>
 
-- 🔭 I’m currently working on [Linux OS Clone](https://bhupeshb359.github.io/rajan.github.io/)
+- 🔭 I’m currently working on [Linux OS Clone](https://bhupeshb359.github.io/cool/)
 
 - 🌱 I’m currently learning **JS & Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhupeshB359](https://github.com/BhupeshB359)
 
-- 📝 I regularly write articles on [https://bhupeshb359.github.io/rajan.github.io/](https://bhupeshb359.github.io/rajan.github.io/)
+- 📝 I regularly write articles on [https://bhupeshb359.github.io/rajan.github.io/](https://bhupeshb359.github.io/cool/)
 
 - 💬 Ask me about **CSS & JS**
 
